@@ -18,11 +18,13 @@
     <Button
         android:layout_width="wrap_content"
         android:text="作业三"
+        android:onClick="homework3"
         android:id="@+id/homework_btn3"
         android:layout_height="wrap_content" />
     <Button
         android:layout_width="wrap_content"
         android:text="作业四"
+        android:onClick="homework4"
         android:id="@+id/homework_btn4"
         android:layout_height="wrap_content" />
     <Button

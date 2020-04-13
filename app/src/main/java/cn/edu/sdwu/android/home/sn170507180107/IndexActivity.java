@@ -22,4 +22,12 @@ public class IndexActivity extends AppCompatActivity {
         Intent intent = new Intent(this, Homework2Activity.class);
         startActivity(intent);
     }
+    public void homework3(View view) {
+        Intent intent = new Intent(this, Homework3Activity.class);
+        startActivity(intent);
+    }
+    public void homework4(View view) {
+        Intent intent = new Intent(this, Homework4Activity.class);
+        startActivity(intent);
+    }
 }
